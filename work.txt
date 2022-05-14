@@ -1,1 +1,3 @@
-keep trying
+keep trying to study to learn how to use git/github
+also you should try to learn programming languages
+as you know python,java,javascript etc.
